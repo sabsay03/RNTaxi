@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824503648102",
+    "project_id": "yazlab2pro2",
+    "storage_bucket": "yazlab2pro2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824503648102:android:8af9c6fab82296795292a7",
+        "android_client_info": {
+          "package_name": "com.rntaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824503648102-a9jq9jnd10pei7m2e4n4ekd2j4raclhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9yCha-TQLVp_fd1cDJdgR10nhD9RLXyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824503648102-a9jq9jnd10pei7m2e4n4ekd2j4raclhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
